@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kenyaemrmuzima.iml" filepath="$PROJECT_DIR$/kenyaemrmuzima.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/kenyaemrmuzima-api.iml" filepath="$PROJECT_DIR$/api/kenyaemrmuzima-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/omod/kenyaemrmuzima-omod.iml" filepath="$PROJECT_DIR$/omod/kenyaemrmuzima-omod.iml" />
+    </modules>
+  </component>
+</project>
